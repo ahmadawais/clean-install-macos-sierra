@@ -176,7 +176,7 @@ then
 
 
 #### From Web / Brew Cask
-    brew cask install atom appcleaner bartender blisk clipmenu google-chrome codekit commander-one iterm2 phoneclean qlmarkdown screens-connect skype spotify textmate transmit tripmode vlc virtualbox zenmate-vpn
+    brew cask install atom appcleaner bartender blisk clipmenu google-chrome codekit commander-one fliqlo goofy iterm2 phoneclean qlmarkdown screens-connect skype spotify textmate transmit tripmode vlc virtualbox whatsapp zenmate-vpn
 
 - [Atom](https://atom.io/download/mac)
 - [Appcleaner](https://freemacsoft.net/appcleaner/)
@@ -187,6 +187,8 @@ then
 - [CodeKit](https://incident57.com/codekit/) *
 - [Commander One](http://mac.eltima.com/file-manager.html) *
 - [Dropbox](https://www.dropbox.com/downloading?os=mac)
+- [fliqlo Sreensaver](http://fliqlo.com/)  
+- [Goofy Facebook Messenger](http://www.goofyapp.com/)
 - [iTerm2](https://www.iterm2.com/downloads.html)
 - [PhoneClean](http://www.imobie.com/phoneclean/)
 - [QuickLook Markdown](https://github.com/toland/qlmarkdown/)
@@ -199,6 +201,7 @@ then
 - [VLC](http://www.videolan.org/vlc/index.html)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - [Virtual Machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/mac/)
+- [WhatsApp Messenger](https://www.whatsapp.com/download/)
 - [ZenMate](https://secure.zenmate.com/)
 
 `* needs Registration`  
@@ -220,10 +223,9 @@ then
 - [Unclutter](http://unclutterapp.com/)
 - [Wunderlist](https://www.wunderlist.com/)
 
-#### Extras
+#### Themes
 
 - [Solarized color palette](http://ethanschoonover.com/solarized)  
 - [iTerm themes](http://iterm2colorschemes.com/)
-- [fliqlo Sreensaver](http://fliqlo.com/)  
-- [WhatsApp Messenger](https://www.whatsapp.com/download/)
-- [Goofy Facebook Messenger](http://www.goofyapp.com/)
+
+
