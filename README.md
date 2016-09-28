@@ -176,7 +176,7 @@ then
 
 
 #### From Web / Brew Cask
-    brew cask install atom appcleaner bartender blisk clipmenu google-chrome codekit commander-one fliqlo goofy iterm2 phoneclean qlmarkdown screens-connect skype spotify textmate transmit tripmode vlc virtualbox whatsapp zenmate-vpn
+    brew cask install atom appcleaner bartender blisk clipmenu google-chrome codekit commander-one goofy iterm2 padbury-clock phoneclean qlmarkdown screens-connect skype spotify textmate transmit tripmode vlc virtualbox whatsapp zenmate-vpn
 
 - [Atom](https://atom.io/download/mac)
 - [Appcleaner](https://freemacsoft.net/appcleaner/)
@@ -186,10 +186,10 @@ then
 - [ClipMenu](http://www.clipmenu.com/)
 - [CodeKit](https://incident57.com/codekit/) *
 - [Commander One](http://mac.eltima.com/file-manager.html) *
-- [Dropbox](https://www.dropbox.com/downloading?os=mac)
-- [fliqlo Sreensaver](http://fliqlo.com/)  
+- [Dropbox](https://www.dropbox.com/downloading?os=mac) 
 - [Goofy Facebook Messenger](http://www.goofyapp.com/)
 - [iTerm2](https://www.iterm2.com/downloads.html)
+- [Padbury Clock](http://padbury.me/clock/)
 - [PhoneClean](http://www.imobie.com/phoneclean/)
 - [QuickLook Markdown](https://github.com/toland/qlmarkdown/)
 - [Screens Connect](http://edovia.com/screensconnect/download/)
