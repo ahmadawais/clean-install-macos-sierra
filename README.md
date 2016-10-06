@@ -201,7 +201,7 @@ then
 - [VLC](http://www.videolan.org/vlc/index.html)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - [Virtual Machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/mac/)
-- [WALTR](https://softorino.com/waltr)
+- [WALTR](https://softorino.com/waltr) *
 - [WhatsApp Messenger](https://www.whatsapp.com/download/)
 - [ZenMate](https://secure.zenmate.com/)
 
