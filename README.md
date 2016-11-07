@@ -174,6 +174,9 @@ then
 
 ### 12. Install Apps :
 
+#### Allow Apps from Anywhere in Gatekeeper 
+    sudo spctl --master-disable
+
 
 #### From Web / Brew Cask
     brew cask install atom appcleaner bartender blisk clipmenu google-chrome codekit commander-one goofy iterm2 padbury-clock phoneclean qlmarkdown screens-connect skype spotify textmate transmit tripmode vlc virtualbox waltr whatsapp zenmate-vpn
