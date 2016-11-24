@@ -20,6 +20,8 @@ If you like to follow these instructions keep in mind that you need to use your 
 ```
 sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ macOS\ Sierra.app --nointeraction
 ```   
+Or
+[Install Disk Creator](https://macdaddy.io/install-disk-creator/) is a straightforward way to create a boot disk. I was able to make a macOS Sierra external USB boot disk in a few minutes, and the installation worked without a hitch. Also works with older versions of OS X.
 
 #### Backup
 Backup Your files to Dropbox  
